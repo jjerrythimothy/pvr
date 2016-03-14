@@ -1,0 +1,28 @@
+{
+  "name": "pvr",
+  "version": "1.0.0",
+  "description": "A prototype of pvr cinemas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjerrythimothy/pvr.git"
+  },
+  "keywords": [
+    "pvr"
+  ],
+  "author": "jerry thimothy j",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjerrythimothy/pvr/issues"
+  },
+  "homepage": "https://github.com/jjerrythimothy/pvr#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "nedb": "^1.8.0"
+  }
+}

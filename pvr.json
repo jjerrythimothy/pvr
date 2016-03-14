@@ -1,0 +1,21 @@
+{
+	"movies" : {
+		"1" : "Dawn Of Justice",
+		"2" : "Suicide Squad",
+		"3" : "Civil War",
+		"4" : "Finding Dory",
+		"5" : "London Has Fallen",
+		"6" : "Pirates Of The Caribbean"
+	},
+	"theatres" : {
+		"1" : "Devasandra Industrial Estate",
+		"2" : "Phoenix Mall",
+		"3" : "The Forum Mall"
+	},
+	"shows" : {
+		"1" : "10:00 AM",
+		"2" : "2:30 PM",
+		"3" : "07:25 PM",
+		"4" : "10:30 PM"
+	}
+}
